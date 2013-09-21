@@ -1,0 +1,3 @@
+This script tries to detect which tabulation policy is used in a fresh opened source file, ie. are tabulation spaces or real tabulations.
+
+It needs more work for space case, as it often select "8 spaces" tabs...
